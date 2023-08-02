@@ -1,0 +1,6 @@
+working directory -> staging area -> local repo. -> remote repo.
+git-and-github -> git add filename -> git commit -> git push
+untracked files are in working directory
+tracked files are in staging area
+change control -> move from wd to staging area
+version control -> move from staging area to local repo
